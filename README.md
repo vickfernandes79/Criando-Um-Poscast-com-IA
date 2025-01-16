@@ -2,10 +2,11 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 
 💻 Tecnologias utilizadas no projeto
-Bate-papoGPT
-Meio da jornada
-Laboratórios Eleven
-Capcut
+
+Bate-papoGPT;
+Meio da jornada:
+Laboratórios Eleven;
+Capcut;
 
 ✨ Como foi feito?
 Roteiro gerado via chatgpt
