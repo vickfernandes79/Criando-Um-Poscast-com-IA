@@ -4,14 +4,21 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 💻 Tecnologias utilizadas no projeto
 
 Bate-papoGPT;
+
 Meio da jornada:
+
 Laboratórios Eleven;
+
 Capcut;
 
 ✨ Como foi feito?
+
 Roteiro gerado via chatgpt
+
 Áudio gerado pela elevenLabs
+
 Midjourney Para gerar capas
+
 Capcut para tratar áudio e adicionar sons de fundo
 
 **Prompts para projeto PODCAST
